@@ -21,3 +21,5 @@ Please contact Nick Kampa (nkampa@chess.com) with any questions or feedback rega
 
 # Notes
 Since this was to be a demonstration of my web dev knowledge, I (Zachary Yaro) used some newer features/syntax, however I can rewrite those portions with syntax that is directly backward-compatible with older browsers if you prefer.  Additionally, while I implemented some basic accessibility, this is not fully ARIA-compliant; I can rectify that as well if you prefer.
+
+A live instance is up at https://zmyaro.github.io/frontendtest.
